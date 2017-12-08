@@ -1,2 +1,2 @@
-# sparrow
-sparrow language
+# sparo
+sparo language
